@@ -11,3 +11,26 @@ pre{
     padding: 15px;
     margin-bottom: 15px;
   }
+
+
+  
+  .btn {
+    display: block; /* Make the button block-level to ensure it appears on a new line */
+    width: fit-content; /* Adjust the width to fit the content */
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: white;
+    background-color: #2f3640;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 1rem; /* Add some margin to the top for spacing */
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  
