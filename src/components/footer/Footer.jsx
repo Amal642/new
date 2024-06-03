@@ -14,7 +14,7 @@ function Footer() {
         {/* Blog Logo  */}
         <div className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
           {/* logo  */}
-          <img className="w-10" src="./src/assets/logo.png" alt="logo" />
+          <img className="w-10" src="https://firebasestorage.googleapis.com/v0/b/blogapp-cf273.appspot.com/o/Screenshot%202024-06-01%20173242.png?alt=media&token=3d65a615-7cb3-408f-842b-5b38077c4205" alt="logo" />
           {/* logo text  */}
           <span className="ml-3 text-xl text-white">Desert Jobs</span>
         </div>

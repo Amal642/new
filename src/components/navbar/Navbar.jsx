@@ -71,7 +71,7 @@ export default function Nav() {
                             {/* Logo Image  */}
                             <img
                                 className=' w-10 h-10 '
-                                src='./src/assets/logo.png'
+                                src='https://firebasestorage.googleapis.com/v0/b/blogapp-cf273.appspot.com/o/Screenshot%202024-06-01%20173242.png?alt=media&token=3d65a615-7cb3-408f-842b-5b38077c4205'
                             />
                             {/* Logo Text  */}
                             <span>

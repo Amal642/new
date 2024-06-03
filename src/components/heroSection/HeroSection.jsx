@@ -17,7 +17,7 @@ function HeroSection() {
                         <div className="mb-2">
                             {/* Image  */}
                             <div className="flex justify-center">
-                                <img src="./src/assets/logo.png" alt="" style={{"width":"100px"}}/>
+                                <img src="https://firebasestorage.googleapis.com/v0/b/blogapp-cf273.appspot.com/o/Screenshot%202024-06-01%20173242.png?alt=media&token=3d65a615-7cb3-408f-842b-5b38077c4205" alt="" style={{"width":"100px"}}/>
                             </div>
 
                             {/* Text  */}
