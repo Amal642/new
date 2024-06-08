@@ -30,6 +30,12 @@ function HeroSection() {
                             className="sm:text-3xl text-xl font-extralight sm:mx-auto ">
                             Your one stop Job portal for UAE/GCC Jobs
                         </p>
+                        <br/>
+                        <p
+                            style={{ color: mode === 'dark' ? 'white' : 'white' }}
+                            className="sm:text-xl text-xl font-extralight sm:mx-auto ">
+                            Daily and Weekly update of Jobs - Stay Tuned
+                        </p>
                     </div>
 
                 </main>

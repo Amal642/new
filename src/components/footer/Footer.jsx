@@ -27,7 +27,7 @@ function Footer() {
         {/* Right item  */}
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           {/* Icon 1  */}
-          <a className="ml-3 text-gray-500" href="https://www.google.com" target="__blank">
+          <a className="ml-3 text-gray-500" href="https://www.tiktok.com/@desert.jobs?_t=8n1KU3aDkp8&_r=1" target="__blank">
             <svg
               fill="currentColor"
               strokeLinecap="round"
@@ -41,7 +41,7 @@ function Footer() {
           </a>
 
           {/* Icon 2  */}
-          <a className="ml-3 text-gray-500" href="https://www.google.com" target="__blank">
+          <a className="ml-3 text-gray-500" href="https://t.me/desertjobs" target="__blank">
             <svg
               fill="currentColor"
               strokeLinecap="round"
@@ -56,7 +56,7 @@ function Footer() {
           </a>
 
           {/* Icon 3  */}
-          <a className="ml-3 text-gray-500" href="https://www.google.com" target="__blank">
+          <a className="ml-3 text-gray-500" href="https://www.instagram.com/desert.jobs?igsh=MTQ1ejZrOGZpZjNkZg%3D%3D&utm_source=qr" target="__blank">
             <svg
               fill="none"
               stroke="currentColor"
